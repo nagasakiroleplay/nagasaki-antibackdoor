@@ -12,7 +12,7 @@
 
 
 ## 🚀 How to Install
-1. Download the latest release from the [Releases](LINK_TO_YOUR_RELEASES_PAGE) page. <!-- replace LINK_TO_YOUR_RELEASES_PAGE with the actual link -->
+1. Download the latest release from the [Releases](https://github.com/nagasakiroleplay/nagasaki-antibackdoor/releases/tag/antibackdoor) page. <!-- replace LINK_TO_YOUR_RELEASES_PAGE with the actual link -->
 2. Extract the files into your FiveM resources folder.
 3. Add `start es-antibackdoor` to your `server.cfg` file.
 
